@@ -1,2 +1,2 @@
 # ascii_warriors
- ASCII warriors fighting game running in terminal.
+A terminal game with simple ASCII figures that fight each other.
